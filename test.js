@@ -1,3 +1,5 @@
-var test = function () {
+// Nouvelle version
+
+maNouvelleFonction = function () {
 	var test = "toto";
 }
